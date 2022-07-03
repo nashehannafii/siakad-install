@@ -27,9 +27,16 @@ chmod 777 -R siakad
 chmod 777 -R sikap
 chmod 777 -R central
 
+rm /var/www/html/siakad/_protected/config/db.php
+rm /var/www/html/siakad/_protected/config/params-local.php
+rm /var/www/html/central/_protected/config/db.php
+rm /var/www/html/central/_protected/config/params-local.php
+rm /var/www/html/sikap/_protected/config/db.php
+rm /var/www/html/sikap/_protected/config/params-local.php
 
 
 cd /var/www/html/siakad/_protected/config/
+
 echo "<?php
 
 return [
