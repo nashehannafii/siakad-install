@@ -1,4 +1,5 @@
 Setup Installasi Siakad
+- git clone https://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@github.com/nashehannafii/siakad-install.git
 
 #activate
 - sudo chmod +x install-*
