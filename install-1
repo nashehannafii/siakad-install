@@ -21,8 +21,8 @@ mysql
 echo '
 Ikuti perintah berikut:
 
-CREATE USER 'guide'@'localhost' IDENTIFIED BY 'bismillah';
-GRANT ALL PRIVILEGES ON *.* TO 'guide'@'localhost' WITH GRANT OPTION;
+CREATE USER 'nasheh'@'localhost' IDENTIFIED BY 'bismillah';
+GRANT ALL PRIVILEGES ON *.* TO 'nasheh'@'localhost' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 CREATE DATABASE siakadunida_simak;
 CREATE DATABASE unidagon_portal;
