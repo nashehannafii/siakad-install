@@ -1,3 +1,4 @@
+sudo apt --fix-broken install -y
 sudo apt autoremove -y
 sudo apt update -y
 sudo apt upgrade -y
