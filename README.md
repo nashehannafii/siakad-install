@@ -12,4 +12,4 @@ sudo su
 
 mini sso
 
-git clone https://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@github.com/nashehannafii/mini-sso.git
+- git clone https://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@github.com/nashehannafii/mini-sso.git
