@@ -9,3 +9,7 @@ sudo su
 - ./install-2
 - ./install-3
 - ./install-4
+
+mini sso
+
+git clone https://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@github.com/nashehannafii/mini-sso.git
